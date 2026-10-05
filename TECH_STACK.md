@@ -61,7 +61,7 @@
 
 ## 6. 설정값 주입
 
-- **@Value**: application.yml의 설정값을 변수에 바인딩한다. (예: @Value("${app.multipart.store-path}")) 저장 경로를 바꿀 때 yml만 수정하면 된.
+- **@Value**: application.yml의 설정값을 변수에 바인딩한다. (예: @Value("${app.multipart.store-path}")) 저장 경로를 바꿀 때 yml만 수정하면 된다.
 
 ---
 
